@@ -1,0 +1,14 @@
+com\mycompany\metlife\controller\CRUDController.class
+com\mycompany\metlife\entity\Rola.class
+com\mycompany\metlife\converter\IntegerToFitnesCentar.class
+com\mycompany\metlife\entity\Korisnik.class
+com\mycompany\metlife\service\MetLifeService.class
+com\mycompany\metlife\entity\Kontakt.class
+com\mycompany\metlife\entity\ZakazivanjeTermina.class
+com\mycompany\metlife\entity\KategorijaFitnesCentra.class
+com\mycompany\metlife\dao\impl\MetLifeDaoImpl.class
+com\mycompany\metlife\entity\Termin.class
+com\mycompany\metlife\service\impl\MetLifeServiceImpl.class
+com\mycompany\metlife\dao\MetLifeDao.class
+com\mycompany\metlife\converter\IntegerToKategorijaFitnesCentra.class
+com\mycompany\metlife\entity\FitnesCentar.class
